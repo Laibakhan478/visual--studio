@@ -1,4 +1,2 @@
 Hello Git from VS Code!
 This is a new feature!
-Hello from main branch
-Hello from main branch
